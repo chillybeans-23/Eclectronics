@@ -8203,7 +8203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 83.82 118.4148 0)
 			(hide yes)
 			(show_name no)
@@ -8579,7 +8579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 83.82 103.1748 0)
 			(hide yes)
 			(show_name no)
@@ -8813,7 +8813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 80.01 39.878 90)
 			(hide yes)
 			(show_name no)
@@ -9048,7 +9048,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 83.82 184.4548 0)
 			(hide yes)
 			(show_name no)
@@ -9362,7 +9362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 83.82 98.0948 0)
 			(hide yes)
 			(show_name no)
@@ -9441,7 +9441,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 162.56 146.558 90)
 			(hide yes)
 			(show_name no)
@@ -9519,7 +9519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 83.82 179.3748 0)
 			(hide yes)
 			(show_name no)
@@ -10228,7 +10228,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Eclectronics:TL3301AFxxxxJ"
+		(property "Footprint" "Eclectronics_shared:TL3301AFxxxxJ"
 			(at 31.75 116.84 90)
 			(hide yes)
 			(show_name no)
@@ -10543,7 +10543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 83.82 153.9748 0)
 			(hide yes)
 			(show_name no)
@@ -10625,7 +10625,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 83.312 149.86 90)
 			(hide yes)
 			(show_name no)
@@ -10706,7 +10706,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Eclectronics:USB4105-GF-A"
+		(property "Footprint" "Eclectronics_shared:USB4105-GF-A"
 			(at 24.13 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -10981,7 +10981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 83.82 138.7348 0)
 			(hide yes)
 			(show_name no)
@@ -11219,7 +11219,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm"
+		(property "Footprint" "Eclectronics_shared:RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm"
 			(at 123.19 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -11713,7 +11713,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 194.0052 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -11870,7 +11870,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 162.56 161.798 90)
 			(hide yes)
 			(show_name no)
@@ -11951,7 +11951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 224.4852 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -12265,7 +12265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 83.82 113.3348 0)
 			(hide yes)
 			(show_name no)
@@ -12422,7 +12422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 80.01 34.798 90)
 			(hide yes)
 			(show_name no)
@@ -12739,7 +12739,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 45.4152 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -12817,7 +12817,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 162.56 156.718 90)
 			(hide yes)
 			(show_name no)
@@ -12974,7 +12974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:AOTA-B201610S3R3-101-T"
+		(property "Footprint" "Eclectronics_shared:AOTA-B201610S3R3-101-T"
 			(at 80.01 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -13053,7 +13053,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 83.82 108.2548 0)
 			(hide yes)
 			(show_name no)
@@ -13367,7 +13367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 83.82 123.4948 0)
 			(hide yes)
 			(show_name no)
@@ -13602,7 +13602,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 83.82 174.2948 0)
 			(hide yes)
 			(show_name no)
@@ -13682,7 +13682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:IQXO-791"
+		(property "Footprint" "Eclectronics_shared:IQXO-791"
 			(at 55.88 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -13849,7 +13849,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 28.702 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -13930,7 +13930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 233.172 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -14247,7 +14247,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Eclectronics:IN-S85TATRGB"
+		(property "Footprint" "Eclectronics_shared:IN-S85TATRGB"
 			(at 175.26 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -14576,7 +14576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Eclectronics:TL3301AFxxxxJ"
+		(property "Footprint" "Eclectronics_shared:TL3301AFxxxxJ"
 			(at 45.72 116.84 90)
 			(hide yes)
 			(show_name no)
@@ -14658,7 +14658,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 55.372 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -14736,7 +14736,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 162.56 151.638 90)
 			(hide yes)
 			(show_name no)
@@ -15031,7 +15031,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 46.482 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -15191,7 +15191,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Eclectronics:C_0402_1005Metric"
+		(property "Footprint" "Eclectronics_shared:C_0402_1005Metric"
 			(at 42.672 109.22 90)
 			(hide yes)
 			(show_name no)
